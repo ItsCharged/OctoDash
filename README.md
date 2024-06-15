@@ -1,4 +1,5 @@
-<p align="center">
+ <b>THIS REPO IS FOR FIXING A BUG WITH THE SCREEN BACKLIGHT <b>
+ <p align="center">
     <img width="300" height="300" src="./src/assets/icon/icon-main-dark-title.svg">
     <br><br>
     <img src="https://img.shields.io/github/workflow/status/UnchartedBull/OctoDash/build/main?style=for-the-badge">
